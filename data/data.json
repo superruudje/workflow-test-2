@@ -1,3 +1,4 @@
 {
-  test: 'Dit is tweede test.'
+  "test": "Dit is tweede test.",
+  "name": "Lekker Sicko"
 }
